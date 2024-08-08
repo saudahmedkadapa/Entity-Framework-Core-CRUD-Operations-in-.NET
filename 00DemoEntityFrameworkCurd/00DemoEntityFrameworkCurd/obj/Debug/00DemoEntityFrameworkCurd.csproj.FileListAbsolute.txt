@@ -1,0 +1,12 @@
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\bin\Debug\00DemoEntityFrameworkCurd.exe.config
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\bin\Debug\00DemoEntityFrameworkCurd.exe
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\bin\Debug\00DemoEntityFrameworkCurd.pdb
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\bin\Debug\EntityFramework.dll
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\bin\Debug\EntityFramework.xml
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\obj\Debug\00DemoEntityFrameworkCurd.csproj.AssemblyReference.cache
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\obj\Debug\00DemoEntityFrameworkCurd.csproj.CoreCompileInputs.cache
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\obj\Debug\00DemoEn.3BA024C9.Up2Date
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\obj\Debug\00DemoEntityFrameworkCurd.exe
+C:\Users\localhost\OneDrive\Desktop\DotNet\00DemoEntityFrameworkCurd\00DemoEntityFrameworkCurd\obj\Debug\00DemoEntityFrameworkCurd.pdb
